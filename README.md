@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## How to Use
 Execute the tool in a Python environment
 ```
-python3 PortVulnScan
+python3 PortVulnScan.py
 ```
 <ol>
 <li>Target IP Address: 192.168.1.1</li>
