@@ -7,7 +7,7 @@ Domain_Information_Gathering is a Basic Domain Information Gathering Tool
 <li>Clone the repository:</li>
   
 ```
-git clone https://github.com/Aseer-Bazal/
+git clone https://github.com/Aseer-Bazal/PortVulnScan.git
 ```
 <li>Move into the tool directory:</li>
 
