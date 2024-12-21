@@ -48,7 +48,7 @@ Please, sign up at <a href="https://vulners.com/">Vulners</a> website. Go to the
 
 <a href="https://vulners.com/docs/api_reference/apikey/">Step by step guide for vulners api key</a>
 
-##Exiting and Deactivating the Environment
+## Exiting and Deactivating the Environment
 After using the tool, you can deactivate the virtual environment:
 ```
 deactivate```
