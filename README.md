@@ -14,6 +14,17 @@ git clone https://github.com/Aseer-Bazal/PortVulnScan.git
 ```
 cd PortVulnScan
 ```
+<li>Create a Python virtual environment:</li>
+<P>It is recommended to use a virtual environment to avoid dependency conflicts.</P>
+
+```
+python3 -m venv venv
+```
+<li>Activate the virtual environment:</li> 
+
+```
+source venv/bin/activate
+```
 <li>Install the required libraries:</li> 
 
 ```
@@ -36,6 +47,11 @@ python3 PortVulnScan.py
 Please, sign up at <a href="https://vulners.com/">Vulners</a> website. Go to the personal menu by clicking on your name in the left bottom corner. Follow "API KEYS" tab. Generate an API key with scope "api" 
 
 <a href="https://vulners.com/docs/api_reference/apikey/">Step by step guide for vulners api key</a>
+
+##Exiting and Deactivating the Environment
+After using the tool, you can deactivate the virtual environment:
+```
+deactivate```
 
 
 
